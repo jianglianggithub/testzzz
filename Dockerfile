@@ -1,2 +1,2 @@
 FROM java
-RUN java -version
+CMD java -version
